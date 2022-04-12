@@ -3,7 +3,7 @@
 
 <head>
     <title>吃掉小鸽子</title>
-    <meta itemprop="name" content="吃掉小涩鸽" />
+    <meta itemprop="name" content="吃掉小鸽子" />
     <meta itemprop="description" content="嘎嘎嘎嘎" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
