@@ -74,7 +74,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小涩鸽">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉小鸽子">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
